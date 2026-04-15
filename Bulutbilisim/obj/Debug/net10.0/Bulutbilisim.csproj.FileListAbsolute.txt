@@ -95,3 +95,4 @@ C:\Users\Emre\RiderProjects\Bulutbilisim\Bulutbilisim\obj\Debug\net10.0\refint\B
 C:\Users\Emre\RiderProjects\Bulutbilisim\Bulutbilisim\obj\Debug\net10.0\Bulutbilisim.pdb
 C:\Users\Emre\RiderProjects\Bulutbilisim\Bulutbilisim\obj\Debug\net10.0\Bulutbilisim.genruntimeconfig.cache
 C:\Users\Emre\RiderProjects\Bulutbilisim\Bulutbilisim\obj\Debug\net10.0\ref\Bulutbilisim.dll
+C:\Users\Emre\RiderProjects\Bulutbilisim\Bulutbilisim\obj\Debug\net10.0\Bulutbilisim.sourcelink.json
